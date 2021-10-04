@@ -1,0 +1,22 @@
+21
+let A = 12
+let B = 2
+let C = 20
+let D = 3
+let E = 0
+let F = 10
+let G = 5
+let H = 11
+let M = 81
+calc I = ( A + A ^ B + C + D * B ) / ( F - D ) + G * H - E ;
+print I
+let J = 150
+let K = -100
+let L = 200000000000000000000000000000000000000000000000000
+compare A > B
+compare A < B
+compare A = B
+compare M = I
+root J
+root K
+root L
